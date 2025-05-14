@@ -164,3 +164,33 @@ I'm a **Certified Data Scientist** with a proven track record of delivering **$1
 <div align="center">
   <p><i>Let's connect and build something amazing together! 🚀</i></p>
 </div>
+
+
+
+
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs at 00:00 UTC everyday
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: SSandeepk2001
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
