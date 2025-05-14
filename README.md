@@ -1,20 +1,51 @@
-<!-- HEADER SECTION -->
+<!-- EDUCATION & CERTIFICATIONS SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" width="35px"> <b>Education & Certifications</b>
+</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Sandeep%20Kumar&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Header Image"/>
+  <table border="0" align="center">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="120px">
+        <h3>🎓 Education</h3>
+        <img src="https://img.shields.io/badge/SUNY_Potsdam-Diploma_in_AI-6F2DA8?style=for-the-badge" alt="Diploma"><br>
+        <i>Apr 2024 - Apr 2025</i>
+        <br><br>
+        <img src="https://img.shields.io/badge/BBSBEC-B.Tech_in_Computer_Science-E94560?style=for-the-badge" alt="BTech"><br>
+        <i>Sep 2020 - Apr 2024</i>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/214375888-0dcfd16e-7a18-40e5-8119-40902feab90a.gif" width="150px">
+        <h3>🏆 Top Certifications</h3>
+        <div>
+          <a href="#"><img src="https://img.shields.io/badge/NASSCOM-Data_Science_(Gold)-FFD700?style=for-the-badge&logoColor=black" alt="NASSCOM"></a><br><br>
+          <a href="#"><img src="https://img.shields.io/badge/360DigiTMG-Professional_Data_Science_&_AI-1E88E5?style=for-the-badge" alt="Data Science"></a><br><br>
+          <a href="#"><img src="https://img.shields.io/badge/360DigiTMG-Generative_AI_Prompt_Engineering-FF5722?style=for-the-badge" alt<!-- HEADER SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,26&height=200&section=header&text=Sandeep%20Kumar&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20ML%20Expert&fontSize=60&fontAlignY=30&descAlignY=55&animation=fadeIn&fontColor=FFFFFF&descColor=d6eaf8" width="100%" alt="Header Image"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1E88E5&center=true&vCenter=true&width=600&height=70&lines=Data+Scientist+%7C+ML+Engineer;AI+%26+Deep+Learning+Specialist;Computer+Vision+%26+NLP+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&pause=1000&color=39B5E0&center=true&vCenter=true&width=600&height=70&lines=Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+NLP;Time+Series+Forecasting;FAANG-Ready+Data+Scientist" alt="Typing SVG" />
 </h1>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+</div>
 
 <!-- ABOUT ME SECTION -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px"> About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> <b>About Me</b>
 </h2>
 
 <p align="center">
-  <em>Results-driven Data Scientist with a B.Tech in Computer Science and expertise in Machine Learning, Deep Learning, and data preprocessing. Proficient in Python, SQL, AWS, and Docker. Delivered impactful projects in AI assessments, NLP topic modeling, and industrial optimization. Skilled in building data pipelines, predictive models, and dashboards to drive business insights.</em>
+  <a href="#"><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=500&size=23&duration=2000&pause=1000&multiline=true&width=600&height=120&lines=Results-driven+Data+Scientist+with+expertise+in+ML%2C+DL%2C;and+data+preprocessing.+Delivered+projects+with+real-world;impact+saving+%241M%2B+in+manufacturing+costs." alt="Typing SVG" /></a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%">
+</div>
 
 <div align="center">
   <a href="mailto:sandeepkumar9876202306@gmail.com">
@@ -33,129 +64,182 @@
 
 <!-- TECH STACK SECTION -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"> Tech Stack
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"> <b>Tech Stack & Tools</b>
 </h2>
 
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-  ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-  
+  <table border="0">
+    <tr>
+      <td align="center">
+        <h3>Languages</h3>
+        <img src="https://skillicons.dev/icons?i=python,mysql,mongodb,bash" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>Data Science & ML</h3>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+        <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK">
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>Visualization & Deployment</h3>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>DevOps & Tools</h3>
+        <img src="https://skillicons.dev/icons?i=aws,docker,git,vscode,github,linux,bash" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80%">
 </div>
 
 <!-- PROJECTS SECTION -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Featured Projects
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> <b>Featured Projects</b>
 </h2>
 
 <div align="center">
-  <table>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SSandeepk2001&repo=steel-production-safety&theme=tokyonight&hide_border=true" width="49%" alt="Steel Production Safety" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SSandeepk2001&repo=aluminium-price-forecasting&theme=tokyonight&hide_border=true" width="49%" alt="Aluminium Price Forecasting" />
+  </a>
+</div>
+
+<div align="center">
+  <table border="0">
     <tr>
-      <td width="50%">
-        <h3 align="center">Scrap-Based Steel Production Safety System</h3>
-        <div align="center">
+      <td width="50%" align="center">
+        <h3 align="center">🛡️ Scrap-Based Steel Production Safety System</h3>
+        <a href="#">
+          <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/04/yolo-featured.png" width="100%" alt="Project Image">
+        </a>
+        <br>
+        <p align="center">
           <a href="#" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow">
+            <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white" alt="Code">
           </a>
-          <p>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white" alt="Code">
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-success?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo">
-            </a>
-          </p>
-          <p>
-            <strong>YOLO-based object detection model</strong> for identifying hazardous materials in scrap metal. Achieved 90%+ accuracy, improved worker safety by 40%, and extended furnace lifespan by 25%.
-          </p>
-        </div>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo">
+          </a>
+        </p>
+        <p>
+          <strong>YOLO-based object detection model</strong> for identifying hazardous materials in scrap metal, achieving:
+          <ul>
+            <li>90%+ detection accuracy</li>
+            <li>40% improvement in worker safety</li>
+            <li>25% extension in furnace lifespan</li>
+          </ul>
+        </p>
       </td>
-      <td width="50%">
-        <h3 align="center">Aluminium Price Forecasting System</h3>
-        <div align="center">
+      <td width="50%" align="center">
+        <h3 align="center">📈 Aluminium Price Forecasting System</h3>
+        <a href="#">
+          <img src="https://miro.medium.com/v2/resize:fit:1358/1*L76A5gL6176UbMgn7q4Ybg.png" width="100%" alt="Project Image">
+        </a>
+        <br>
+        <p align="center">
           <a href="#" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas">
+            <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white" alt="Code">
           </a>
-          <p>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white" alt="Code">
-            </a>
-            <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Demo-success?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo">
-            </a>
-          </p>
-          <p>
-            <strong>ARIMA/SARIMA time series model</strong> for aluminium price forecasting. Enabled 25% cost savings and 20% revenue increase with actionable insights via Power BI dashboard.
-          </p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo">
+          </a>
+        </p>
+        <p>
+          <strong>ARIMA/SARIMA time series model</strong> for aluminium price forecasting with significant business impact:
+          <ul>
+            <li>25% procurement cost savings</li>
+            <li>20% revenue increase</li>
+            <li>Interactive Power BI dashboard</li>
+          </ul>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/View_All_Projects-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="All Projects"></a>
+  </p>
+</div>
+
+<!-- WORK EXPERIENCE SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="35px"> <b>Professional Experience</b>
+</h2>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <div style="display: flex; align-items: center;">
+          <img src="https://user-images.githubusercontent.com/74038190/216655811-d7801a48-8e27-4de0-a226-f1ff116b6a14.gif" width="90" align="left">
+          <div>
+            <h3>Data Science Intern - 360DigiTMG</h3>
+            <p><em>Jan 2025 - Mar 2025</em> | <img src="https://img.shields.io/badge/Bengaluru-49BD7D?style=flat-square" alt="Location"></p>
+            <ul>
+              <li>Analyzed machine downtime data for a fuel pump manufacturing company</li>
+              <li>Identified downtime patterns leading to 10%+ reduction in unplanned machine stops</li>
+              <li>Delivered actionable insights supporting $1M+ in cost savings</li>
+              <li>Developed interactive Power BI dashboards for real-time monitoring</li>
+            </ul>
+          </div>
+        </div>
+        <br>
+        <div style="display: flex; align-items: center;">
+          <img src="https://user-images.githubusercontent.com/74038190/216656963-09908f22-5adb-4dcc-b756-01486a23ed54.gif" width="90" align="left">
+          <div>
+            <h3>Data Scientist - 360DigiTMG</h3>
+            <p><em>Jan 2024 - Aug 2024</em> | <img src="https://img.shields.io/badge/Bengaluru-49BD7D?style=flat-square" alt="Location"></p>
+            <ul>
+              <li>Developed ML models for various industrial applications</li>
+              <li>Created data pipelines and visualization dashboards</li>
+              <li>Collaborated with cross-functional teams to implement AI solutions</li>
+              <li>Optimized algorithms resulting in 15% improvement in processing efficiency</li>
+            </ul>
+          </div>
+        </div>
+        <br>
+        <div style="display: flex; align-items: center;">
+          <img src="https://user-images.githubusercontent.com/74038190/212744249-f7d8c876-c2f6-4696-9b4f-9d0406248481.gif" width="90" align="left">
+          <div>
+            <h3>Machine Learning Intern - Encryptix</h3>
+            <p><em>Aug 2024 - Present</em> | <img src="https://img.shields.io/badge/Delhi-DD5353?style=flat-square" alt="Location"></p>
+            <ul>
+              <li>Building and deploying ML models for production environments</li>
+              <li>Performing data preprocessing and feature engineering</li>
+              <li>Creating documentation and technical reports</li>
+              <li>Prototyping solutions for computer vision and NLP problems</li>
+            </ul>
+          </div>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- WORK EXPERIENCE SECTION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="35px"> Professional Experience
-</h2>
-
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>Data Science Intern - 360DigiTMG</h3>
-        <p><em>Jan 2025 - Mar 2025</em></p>
-        <ul>
-          <li>Analyzed machine downtime data for a fuel pump manufacturing company using Python and Excel</li>
-          <li>Identified downtime patterns that led to 10%+ reduction in unplanned machine stops</li>
-          <li>Delivered actionable insights supporting $1M+ in cost savings under maintenance budget constraints</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>Data Scientist - 360DigiTMG</h3>
-        <p><em>Jan 2024 - Aug 2024</em></p>
-        <ul>
-          <li>Developed ML models for various industrial applications</li>
-          <li>Created data pipelines and visualization dashboards</li>
-          <li>Collaborated with cross-functional teams to implement AI solutions</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>Machine Learning Intern - Encryptix</h3>
-        <p><em>Aug 2024 - Present</em></p>
-        <ul>
-          <li>Building and deploying ML models for production environments</li>
-          <li>Performing data preprocessing and feature engineering</li>
-          <li>Creating documentation and technical reports</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 </div>
 
 <!-- EDUCATION & CERTIFICATIONS SECTION -->
@@ -241,7 +325,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SSandeepk2001&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SSandeepk2001&theme=react-dark&hide_border=true&bg_color=1a1b27&line=628fdb&point=6ce6ff&color=b377f3" width="100%" alt="Contribution Graph" />
 </div>
 
 <!-- FOOTER SECTION -->
