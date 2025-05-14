@@ -1,72 +1,67 @@
-<h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | AI Enthusiast | NLP & CV Practitioner</h3>
+# 👋 Hi, I'm Sandeep Kumar 
+### Data Scientist | AI Engineer | $1M+ Cost Savings Achiever
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;AI+for+Impact;Always+Learning+%26+Building..." alt="Typing SVG" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-kumar2001/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 
----
+## 🚀 About Me
 
-## 🧑‍💻 About Me
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400"/>
 
-- 🎓 Recent Computer Science Graduate from **Baba Banda Singh Bahadur Engineering College**
-- 📊 Currently working on **AI-powered IELTS Proficiency Evaluator** and **Price Forecasting for Aluminium Procurement**
-- 💡 Passionate about **Data Science**, **AI**, **NLP**, and **Machine Learning**
-- 🌱 Actively learning advanced **EDA, LLMs, Deep Learning, and Streamlit deployment**
-- 💼 Open to roles in **Data Science | Product Analytics | AI/ML Engineering**
+Certified Data Scientist with **$1M+ cost savings** and **25% model accuracy gains** through AI/ML implementations in manufacturing and supply chain. Passionate about building production-ready ML systems with expertise in:
 
----
+- � Computer Vision (YOLO, OpenCV)
+- 🤖 Generative AI & NLP
+- 📈 Time Series Forecasting (ARIMA/SARIMA)
+- 🏭 Industrial AI Applications
 
-## 🔧 Tech Stack & Tools
+## 🔧 Technical Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,git,github,vscode,html,css,js,streamlit,tensorflow,pytorch" />
-</p>
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
+### Data & Cloud
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📊 GitHub Stats
+### Visualization
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-Kumar&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-Kumar&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-Kumar&layout=compact&theme=radical&hide_border=true" />
-</p>
+## 🏆 Highlight Projects
 
----
+### 🏭 Industrial Safety Computer Vision System
+[![Open in GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourrepo)
+- Developed YOLO-based object detection achieving **90%+ accuracy**
+- Improved worker safety by **40%** and furnace lifespan by **25%**
+- Tech: Python, YOLO, Roboflow, Streamlit
 
-## 🌟 Featured Projects
+### 📈 Aluminium Price Forecasting
+[![Open in GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourrepo)
+- ARIMA/SARIMA models with **p-value 0.005**
+- Resulted in **25% cost savings** and **20% revenue boost**
+- Tech: Python, Power BI, Time Series Analysis
 
-- 🔬 **AI English Proficiency Evaluator**  
-  `→ NLP | Similarity Scoring | Streamlit | LLM | Personality Analysis`
+## 📚 Certifications
 
-- 📉 **Aluminium Price Forecasting System**  
-  `→ Time Series | Prophet | EDA | Regression`
+- <img src="https://img.icons8.com/color/48/000000/university.png" width="20"/> **Diploma in AI** - SUNY Potsdam (USA)
+- <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="20"/> **Generative AI Prompt Engineering** - 360DigiTMG
+- <img src="https://img.icons8.com/color/48/000000/trophy.png" width="20"/> **NASSCOM Data Science (Gold Category)**
 
-- 🧠 **AI Tutor (IELTS Preparation App)**  
-  `→ Listening, Speaking, Reading Modules | Whisper | CommonVoice | SQuAD`
+## 📈 GitHub Stats
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sandeep-kumar-ai/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin" /></a>
-  <a href="mailto:sandeep.email@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Sandeep-Kumar" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
-</p>
+I'm always open to discussing AI, ML, or potential collaborations. Reach out to me at:
 
----
-
-## 📌 Fun Facts
-
-- 🧠 I love learning through hands-on projects more than just courses.
-- 🧩 I break down complex problems like solving a puzzle.
-- 🎯 My motto: *"Build. Learn. Repeat."*
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150" />
-</p>
-<p align="center"><i>Let's build something impactful together!</i></p>
+📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)  
+📱 Mobile: +91-8507302001
