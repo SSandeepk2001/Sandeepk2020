@@ -25,7 +25,7 @@
 ### ⚒️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,MySQL,PowerBI,Tableau,NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Opencv, NLTK, spaCy, Hugging Face, CRISP-ML(Q), FastApi, Streamlit,AWS (S3, EC2), Jupyter Notebook, Anaconda, Google Colab, PyCharm, VS Code, GitHub, Git " />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,postgresql,sqlite,git,github,vscode,streamlit,html,css,js,jupyter" />
 </p>
 
 ---
