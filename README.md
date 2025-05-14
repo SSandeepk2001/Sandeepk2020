@@ -1,91 +1,71 @@
-# Sandeep Kumar | Data Scientist
+<h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
+<h3 align="center">Data Scientist | AI Engineer | Generative AI & NLP | Python, SQL, Power BI</h3>
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-sandeepkumar9876202306%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:sandeepkumar9876202306@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sandeep-kumar2001/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/SSandeepk2001)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--8507302001-green?style=for-the-badge&logo=whatsapp)](tel:+918507302001)
-
-</div>
-
-## 📊 About Me
-
-Certified Data Scientist with proven track record of delivering **$1M+ cost savings** and **25% model accuracy gains** through AI/ML solutions in manufacturing and supply chain domains. Expert in Python, SQL, Power BI, and deploying scalable forecasting and computer vision systems. Experienced in Generative AI, NLP, and translating AI concepts into real-world business value.
-
-## 🛠️ Technical Skills
-
-### Languages & Databases
-- **Programming:** Python, SQL
-- **Database Management:** MongoDB, MySQL
-
-### Visualization & Tools
-- **Data Visualization:** Power BI, Tableau
-- **Development Environment:** AWS (S3, EC2), Jupyter Notebook, Anaconda, Google Colab, PyCharm, VS Code, GitHub, Git
-- **Business Tools:** Excel, MS Word, PowerPoint, Google Workspace, WordPress
-
-### Libraries & Frameworks
-- **Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- **Deep Learning:** TensorFlow, Keras
-- **Computer Vision:** OpenCV
-- **NLP & Generative AI:** NLTK, spaCy, Hugging Face
-- **Deployment:** FastAPI, Streamlit
-- **Methodology:** CRISP-ML(Q)
-
-## 🏆 Achievements
-
-- Ranked in **Top 10%** in NASSCOM National Data Science Assessment (2024)
-- Delivered **$1M+ cost savings** through real-world AI/ML implementations in manufacturing
-- Awarded **Diploma in AI** by SUNY Potsdam based on performance excellence
-- Recognized for innovation in AI workshops, bootcamps, and hackathons
-
-## 🚀 Projects
-
-### Enhancing Safety and Hazard Management in Scrap-Based Liquid Steel Production
-*July 2024 – August 2024*
-
-- Built object detection model to identify hazardous materials in scrap using YOLO and Roboflow annotations
-- Achieved accuracy exceeding **90%**, improving worker safety by **40%** and furnace lifespan by **25%**
-- **Technologies:** Python, YOLO, Roboflow, Google Colab, Streamlit
-
-### Optimizing Aluminium Procurement through Price Forecasting
-*January 2025 – February 2025*
-
-- Developed ARIMA/SARIMA models to forecast aluminium prices; validated using MAPE and p-value < 0.005
-- Enabled **25% cost savings** and **20% revenue boost** with insights via Power BI dashboard
-- **Technologies:** Python, ARIMA/SARIMA, Power BI, Streamlit
-
-## 💼 Professional Experience
-
-### Data Science Intern – 360DigiTMG
-*January 2024 – March 2024*  
-**Client:** Fuel Pump Manufacturing Company, Bengaluru, Karnataka
-
-- Completed a 3-month remote internship focused on analyzing machine downtime data
-- Identified downtime patterns and proposed solutions that led to a **10%+ reduction** in unplanned machine stops
-- Delivered actionable insights that supported **$1M+ in cost savings** while working under maintenance budget constraints
-- **Technologies:** Python, Pandas, Matplotlib, Excel, SQL, Power BI, Google Colab, Streamlit
-
-## 🎓 Education
-
-### Baba Banda Singh Bahadur Engineering College
-*April 2020 – April 2024*  
-B.Tech (Computer Science and Engineering)  
-Fatehgarh Sahib, Punjab
-
-## 📜 Certifications
-
-- **Diploma in AI** – SUNY Potsdam (USA), April 2025
-- **Generative AI Prompt Engineering** – 360DigiTMG, November 2024
-- **NASSCOM Data Science (Gold Category)** – September 2024
-- **Professional Program in Data Science & AI** – 360DigiTMG, April 2024
-- **Tableau, Power BI** – 360DigiTMG, March–May 2024
-- **Python Programming, Basic SQL** – 360DigiTMG, February 2024
+<p align="center">
+  <a href="mailto:sandeepkumar9876202306@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sandeep-kumar2001/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SSandeepk2001" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  
-*"Transforming data into strategic insights and AI-powered solutions"*
+### 🧠 About Me
+- 🎓 Certified **Data Scientist** with practical experience in building AI/ML solutions that saved **$1M+** in manufacturing and supply chain costs.
+- 🔭 Working on **Computer Vision, NLP, Time Series Forecasting**, and **Generative AI**.
+- 🛠️ Skilled in **Streamlit, FastAPI, Hugging Face, Power BI** for fast deployment.
 
-</div>
+---
+
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSandeepk2001&show_icons=true&theme=github_dark" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSandeepk2001&theme=dark" width="49%"/>
+</p>
+
+---
+
+### 🏆 Achievements
+- 🥇 Delivered **$1M+ cost savings** via AI/ML in real-world industry use-cases.
+- 🧠 Ranked in **Top 10%** in **NASSCOM National Data Science Assessment** (2024).
+- 🎓 Awarded **Diploma in AI** from SUNY Potsdam (USA).
+- 🛠️ Recognized for innovation in AI workshops, hackathons & bootcamps.
+
+---
+
+### 📚 Noteworthy Projects
+- 🔍 **[Steel Scrap Hazard Detection](https://github.com/SSandeepk2001)** — YOLO-based object detection improving safety by 40%.
+- 📉 **[Aluminium Price Forecasting](https://github.com/SSandeepk2001)** — ARIMA/SARIMA model yielding 25% cost savings.
+- 🛠️ **[Machine Downtime Analytics](https://github.com/SSandeepk2001)** — Internship project reducing unplanned machine stops by 10%.
+
+---
+
+### 📬 Let's Connect
+📫 Reach out for collaborations:
+- 💼 LinkedIn: [sandeep-kumar2001](https://www.linkedin.com/in/sandeep-kumar2001/)
+- 📧 Email: [sandeepkumar9876202306@gmail.com](mailto:sandeepkumar9876202306@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
