@@ -1,71 +1,72 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar</h1>
-<h3 align="center">Data Scientist | AI Engineer | Generative AI & NLP | Python, SQL, Power BI</h3>
+<h3 align="center">🚀 Aspiring Data Scientist | AI Enthusiast | NLP & CV Practitioner</h3>
 
 <p align="center">
-  <a href="mailto:sandeepkumar9876202306@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sandeep-kumar2001/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SSandeepk2001" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions;AI+for+Impact;Always+Learning+%26+Building..." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 Certified **Data Scientist** with practical experience in building AI/ML solutions that saved **$1M+** in manufacturing and supply chain costs.
-- 🔭 Working on **Computer Vision, NLP, Time Series Forecasting**, and **Generative AI**.
-- 🛠️ Skilled in **Streamlit, FastAPI, Hugging Face, Power BI** for fast deployment.
+## 🧑‍💻 About Me
+
+- 🎓 Recent Computer Science Graduate from **Baba Banda Singh Bahadur Engineering College**
+- 📊 Currently working on **AI-powered IELTS Proficiency Evaluator** and **Price Forecasting for Aluminium Procurement**
+- 💡 Passionate about **Data Science**, **AI**, **NLP**, and **Machine Learning**
+- 🌱 Actively learning advanced **EDA, LLMs, Deep Learning, and Streamlit deployment**
+- 💼 Open to roles in **Data Science | Product Analytics | AI/ML Engineering**
 
 ---
 
-### 🚀 Tech Stack
+## 🔧 Tech Stack & Tools
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,git,github,vscode,html,css,js,streamlit,tensorflow,pytorch" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSandeepk2001&show_icons=true&theme=github_dark" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSandeepk2001&theme=dark" width="49%"/>
-</p>
-
----
-
-### 🏆 Achievements
-- 🥇 Delivered **$1M+ cost savings** via AI/ML in real-world industry use-cases.
-- 🧠 Ranked in **Top 10%** in **NASSCOM National Data Science Assessment** (2024).
-- 🎓 Awarded **Diploma in AI** from SUNY Potsdam (USA).
-- 🛠️ Recognized for innovation in AI workshops, hackathons & bootcamps.
-
----
-
-### 📚 Noteworthy Projects
-- 🔍 **[Steel Scrap Hazard Detection](https://github.com/SSandeepk2001)** — YOLO-based object detection improving safety by 40%.
-- 📉 **[Aluminium Price Forecasting](https://github.com/SSandeepk2001)** — ARIMA/SARIMA model yielding 25% cost savings.
-- 🛠️ **[Machine Downtime Analytics](https://github.com/SSandeepk2001)** — Internship project reducing unplanned machine stops by 10%.
-
----
-
-### 📬 Let's Connect
-📫 Reach out for collaborations:
-- 💼 LinkedIn: [sandeep-kumar2001](https://www.linkedin.com/in/sandeep-kumar2001/)
-- 📧 Email: [sandeepkumar9876202306@gmail.com](mailto:sandeepkumar9876202306@gmail.com)
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep-Kumar&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep-Kumar&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep-Kumar&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+---
+
+## 🌟 Featured Projects
+
+- 🔬 **AI English Proficiency Evaluator**  
+  `→ NLP | Similarity Scoring | Streamlit | LLM | Personality Analysis`
+
+- 📉 **Aluminium Price Forecasting System**  
+  `→ Time Series | Prophet | EDA | Regression`
+
+- 🧠 **AI Tutor (IELTS Preparation App)**  
+  `→ Listening, Speaking, Reading Modules | Whisper | CommonVoice | SQuAD`
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sandeep-kumar-ai/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin" /></a>
+  <a href="mailto:sandeep.email@example.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Sandeep-Kumar" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+## 📌 Fun Facts
+
+- 🧠 I love learning through hands-on projects more than just courses.
+- 🧩 I break down complex problems like solving a puzzle.
+- 🎯 My motto: *"Build. Learn. Repeat."*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150" />
+</p>
+<p align="center"><i>Let's build something impactful together!</i></p>
