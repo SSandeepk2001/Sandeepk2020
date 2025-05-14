@@ -1,107 +1,260 @@
-(adv)
-# <div align="center">👨‍💻 Sandeep Kumar | Data Scientist & AI Engineer</div>
-
+<!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=440&lines=Data+Scientist;AI+%26+Machine+Learning+Engineer;Supply+Chain+Optimization+Expert" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Sandeep%20Kumar&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Header Image"/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeep-kumar2001&style=for-the-badge&color=blue" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/sandeep-kumar2001/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sandeepkumar9876202306@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1E88E5&center=true&vCenter=true&width=600&height=70&lines=Data+Scientist+%7C+ML+Engineer;AI+%26+Deep+Learning+Specialist;Computer+Vision+%26+NLP+Expert" alt="Typing SVG" />
+</h1>
 
-## <div align="center">🚀 Turning Complex Data into Actionable Insights</div>
+<!-- ABOUT ME SECTION -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="45px"> About Me
+</h2>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-### 💡 About Me
-
-I'm a **Data Scientist** and **AI Engineer** with expertise in Machine Learning, Data Analysis, and Supply Chain Optimization. Currently working with 360DigiTMG in Bengaluru, I combine technical excellence with business acumen to create data-driven solutions that deliver tangible results.
-
-- 🔭 Currently working on **AI solutions at 360DigiTMG**
-- 🌱 Learning **Advanced Time Series Forecasting & MLOps**
-- 👯 Open to collaborate on **AI/ML projects in supply chain optimization**
-- 💬 Ask me about **Data Science, ML, AI, Python, Data Analysis**
-- 📍 Based in **Bengaluru, Karnataka, India**
-
-### 🛠️ Tech Stack
+<p align="center">
+  <em>Results-driven Data Scientist with a B.Tech in Computer Science and expertise in Machine Learning, Deep Learning, and data preprocessing. Proficient in Python, SQL, AWS, and Docker. Delivered impactful projects in AI assessments, NLP topic modeling, and industrial optimization. Skilled in building data pipelines, predictive models, and dashboards to drive business insights.</em>
+</p>
 
 <div align="center">
-
-**Languages** | **AI/ML** | **Databases** | **Tools & Platforms**
-:---:|:---:|:---:|:---:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=amazon-dynamodb&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
+  <a href="mailto:sandeepkumar9876202306@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sandeep-kumar2001/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/SSandeepk2001">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
-### 📊 GitHub Stats
+<!-- TECH STACK SECTION -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"> Tech Stack
+</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeep-kumar2001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-kumar2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-kumar2001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-### 🔥 Key Projects
-
-<div align="center">
-
-[![Supply Chain Optimization](https://github-readme-stats.vercel.app/api/pin/?username=sandeep-kumar2001&repo=supply-chain-optimization&theme=tokyonight)](https://github.com/sandeep-kumar2001/supply-chain-optimization)
-[![Time Series Forecasting](https://github-readme-stats.vercel.app/api/pin/?username=sandeep-kumar2001&repo=time-series-forecasting&theme=tokyonight)](https://github.com/sandeep-kumar2001/time-series-forecasting)
-[![Customer Segmentation](https://github-readme-stats.vercel.app/api/pin/?username=sandeep-kumar2001&repo=customer-segmentation&theme=tokyonight)](https://github.com/sandeep-kumar2001/customer-segmentation)
-[![NLP Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=sandeep-kumar2001&repo=nlp-sentiment-analysis&theme=tokyonight)](https://github.com/sandeep-kumar2001/nlp-sentiment-analysis)
-
-</div>
-
-### 📈 Contributions & Activity
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sandeep-kumar2001&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph">
-</div>
-
-### 🎓 Education
-
-- **The State University of New York**
-  - Diploma in Artificial Intelligence (2024-2025)
   
-- **Baba Banda Singh Bahadur Engineering College**
-  - Bachelor of Technology in Computer Science and Engineering (2020-2024)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  ![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+  
+</div>
 
-### 💼 Professional Experience
-
-- **Artificial Intelligence Engineer** at 360DigiTMG (Sep 2024 - Present)
-- **Data Scientist** at 360DigiTMG (Jan 2024 - Aug 2024)
-- **Data Science Intern** at SkillCraft Technology (Oct 2024 - Present)
-- **Machine Learning Intern** at Encryptix (Aug 2024 - Present)
-- **Data Science Intern** at Cognifyz Technologies (Jul 2024 - Present)
-
-### 🌟 Featured Skills
-
-- Time Series Forecasting
-- Supply Chain Optimization
-- Machine Learning & AI
-- Data Analysis & Visualization
-- Data-Driven Decision Making
-- Predictive Modeling
-- Natural Language Processing
-- Deep Learning
-
----
+<!-- PROJECTS SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> Featured Projects
+</h2>
 
 <div align="center">
-  <h3>💬 Let's Connect!</h3>
-  <p>I'm always interested in new opportunities and collaborations.</p>
-  <a href="https://www.linkedin.com/in/sandeep-kumar2001/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sandeepkumar9876202306@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/sandeep-kumar2001"><img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Scrap-Based Steel Production Safety System</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow">
+          </a>
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Demo-success?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo">
+            </a>
+          </p>
+          <p>
+            <strong>YOLO-based object detection model</strong> for identifying hazardous materials in scrap metal. Achieved 90%+ accuracy, improved worker safety by 40%, and extended furnace lifespan by 25%.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Aluminium Price Forecasting System</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas">
+          </a>
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Code-blue?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+            </a>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Demo-success?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo">
+            </a>
+          </p>
+          <p>
+            <strong>ARIMA/SARIMA time series model</strong> for aluminium price forecasting. Enabled 25% cost savings and 20% revenue increase with actionable insights via Power BI dashboard.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- WORK EXPERIENCE SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="35px"> Professional Experience
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>Data Science Intern - 360DigiTMG</h3>
+        <p><em>Jan 2025 - Mar 2025</em></p>
+        <ul>
+          <li>Analyzed machine downtime data for a fuel pump manufacturing company using Python and Excel</li>
+          <li>Identified downtime patterns that led to 10%+ reduction in unplanned machine stops</li>
+          <li>Delivered actionable insights supporting $1M+ in cost savings under maintenance budget constraints</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Data Scientist - 360DigiTMG</h3>
+        <p><em>Jan 2024 - Aug 2024</em></p>
+        <ul>
+          <li>Developed ML models for various industrial applications</li>
+          <li>Created data pipelines and visualization dashboards</li>
+          <li>Collaborated with cross-functional teams to implement AI solutions</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>Machine Learning Intern - Encryptix</h3>
+        <p><em>Aug 2024 - Present</em></p>
+        <ul>
+          <li>Building and deploying ML models for production environments</li>
+          <li>Performing data preprocessing and feature engineering</li>
+          <li>Creating documentation and technical reports</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- EDUCATION & CERTIFICATIONS SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" width="35px"> Education & Certifications
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>Education</h3>
+        <p>
+          <strong>📚 Diploma in Artificial Intelligence</strong><br>
+          SUNY Potsdam (USA)<br>
+          Apr 2024 - Apr 2025
+        </p>
+        <p>
+          <strong>📚 B.Tech in Computer Science and Engineering</strong><br>
+          Baba Banda Singh Bahadur Engineering College<br>
+          Sep 2020 - Apr 2024
+        </p>
+      </td>
+      <td width="50%">
+        <h3>Certifications</h3>
+        <p>
+          <img src="https://img.shields.io/badge/NASSCOM_Data_Science_(Gold_Category)-FFD700?style=flat-square&logoColor=black" alt="NASSCOM"> 
+          <br>
+          <img src="https://img.shields.io/badge/Professional_Program_in_Data_Science_&_AI-1E88E5?style=flat-square&logoColor=white" alt="Data Science">
+          <br>
+          <img src="https://img.shields.io/badge/Generative_AI_Prompt_Engineering-FF5722?style=flat-square&logoColor=white" alt="Generative AI">
+          <br>
+          <img src="https://img.shields.io/badge/Tableau_&_Power_BI-E97627?style=flat-square&logoColor=white" alt="Data Viz">
+          <br>
+          <img src="https://img.shields.io/badge/Python_Programming_&_SQL-3776AB?style=flat-square&logoColor=white" alt="Programming">
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ACHIEVEMENTS SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/XxmK7dzlBRAYbMsRe8/giphy.gif" width="35px"> Achievements
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>🏆 Ranked in Top 10% in NASSCOM National Data Science Assessment (2024)</li>
+          <li>💰 Delivered $1M+ cost savings through real-world AI/ML implementations in manufacturing</li>
+          <li>🎓 Awarded Diploma in AI by SUNY Potsdam based on performance excellence</li>
+          <li>🌟 Recognized for Innovation in AI workshops, bootcamps, and hackathons</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- GITHUB STATS SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"> GitHub Stats
+</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSandeepk2001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSandeepk2001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSandeepk2001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SSandeepk2001&theme=nord&column=7&no-frame=true" alt="GitHub Trophy" />
+</div>
+
+<!-- GITHUB ACTIVITY SECTION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px"> GitHub Activity
+</h2>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=SSandeepk2001&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<!-- FOOTER SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" alt="Footer Image" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SSandeepk2001&label=Profile%20Views&color=1E88E5&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <p>
+    <em>Thanks for visiting my GitHub profile! Let's connect and collaborate on exciting projects! 🚀</em>
+  </p>
 </div>
