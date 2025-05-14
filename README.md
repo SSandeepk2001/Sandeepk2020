@@ -1,4 +1,4 @@
-<!-- Stylish Banner -->
+<!-- Stylish Banner with Animated Text -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=14F7AC&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandeep+Kumar;Data+Scientist+%7C+AI+Enthusiast;ML+%7C+NLP+%7C+CV+%7C+EDA+Specialist;I+build+AI-powered+solutions+for+real+impact" alt="Typing SVG" />
 </p>
@@ -14,6 +14,7 @@
 ---
 
 ### 🧑‍💻 About Me
+
 - 🔭 I’m currently building **AI-powered IELTS Evaluator** & **Aluminium Price Forecasting App**
 - 📚 I’m mastering **Machine Learning, Deep Learning, LLMs & Streamlit**
 - 🧠 Focused on **Data Science, NLP, and CV with real-world projects**
@@ -29,7 +30,7 @@
 
 ---
 
-### 🚀 Projects That Define Me
+### 🚀 Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
