@@ -126,7 +126,7 @@ I'm a **Certified Data Scientist** with a proven track record of delivering **$1
 ## <div align="center">📈 Contribution Graph</div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SSandeepk2001&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SSandeepk2001&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
 </div>
 
 ## <div align="center">💼 Work Experience</div>
