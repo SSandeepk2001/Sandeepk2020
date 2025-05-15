@@ -153,10 +153,41 @@ I'm a **Certified Data Scientist** with a proven track record of delivering **$1
 
 ---
 
+.github/workflows/snake.yml
+
+name: Generate Snake Animation
+
+on:
+  # Run automatically every day at midnight
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows manual trigger
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate Snake SVG
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+      - name: Generate the snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: SSandeepk2001
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+            ./output/github-contribution-grid-snake-dark.svg
+      - name: Push the generated SVG to the output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate GitHub contribution snake"
+          add: "output/*.svg"
+
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/SSandeepk2001/SSandeepk2001/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution" />
+  <img src="https://github.com/SSandeepk2001/SSandeepk2001/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
 </div>
 
 
