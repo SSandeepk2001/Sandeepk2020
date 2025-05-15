@@ -28,7 +28,7 @@ I'm a **Certified Data Scientist** with a proven track record of delivering **$1
 
 ## <div align="center">🛠️ Tech Stack</div>
 
-<div align="center">
+<div align="center"> 
   
   ### 💻 Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
