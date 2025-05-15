@@ -153,13 +153,6 @@ I'm a **Certified Data Scientist** with a proven track record of delivering **$1
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/SSandeepk2001/SSandeepk2001/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
-</div>
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/sandeep-kumar2001/">
     <img src="https://img.shields.io/badge/-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect on LinkedIn"/>
